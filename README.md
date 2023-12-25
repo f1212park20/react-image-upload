@@ -7,4 +7,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
    </p>
+   <img height="32" width="32" src="https://unpkg.com/simple-icons@v10/icons/[ICON SLUG].svg" />
+
 </div>
