@@ -18,6 +18,9 @@
 
 <div align="center">
    <table>
-      
+      <tr>
+         <th>기능</th>
+         <td>수정, 추가</td>
+      </tr>
    </table>
 </div>
