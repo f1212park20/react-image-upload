@@ -65,3 +65,20 @@
 
    </table>
 </div>
+
+
+<div align="center">
+   <h1>부트스트랩 사용법</h1>
+   <table>
+      <tr>
+         <td>
+            <ol>
+               <li>npm install react-bootstrap bootstrap</li>
+            </ol>   
+         </td>    
+      </tr>
+
+        
+
+   </table>
+</div>
