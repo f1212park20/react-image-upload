@@ -35,7 +35,7 @@
                <li>리액트18 버전의 경우 부트스트랩의 모달 기능을 사용해 수정 기능 개발</li>
                <li> 
                   리액트 18버전의 경우  Card.Group명령어 제거를 안한 경우 오류 발생</li></br>
-                  해결책:<a href="https://github.com/f1212park20/code-error/blob/main/React%2018%20%EB%B2%84%EC%A0%84%20%EB%AA%A8%EB%8B%AC%20%EC%98%A4%EB%A5%98.pdf"/>
+                  <a href="https://github.com/f1212park20/code-error/blob/main/React%2018%20%EB%B2%84%EC%A0%84%20%EB%AA%A8%EB%8B%AC%20%EC%98%A4%EB%A5%98.pdf"/>
                </li>
             </ul>   
          </td>         
