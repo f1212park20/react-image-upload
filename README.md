@@ -73,7 +73,8 @@
       <tr>
          <td>
             <ol>
-               <li>npm install react-bootstrap bootstrap</li>
+               <li>npm install react-bootstrap bootstrap 입력</li>
+               <li>상단에 import { Trash, Camera, PencilSquare } from 'react-bootstrap-icons 적용</li>
             </ol>   
          </td>    
       </tr>
