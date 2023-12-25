@@ -74,7 +74,7 @@
          <td>
             <ol>
                <li>npm install react-bootstrap bootstrap 입력후 설치</li>
-               <li>상단에 import { Container, Form, Button, Card, Modal } from 'react-bootstrap-icons 적용</li>
+               <li>상단에 import { Container, Form, Button, Card, Modal } from 'react-bootstrap-icons' 적용</li>
             </ol>   
          </td>    
       </tr>
