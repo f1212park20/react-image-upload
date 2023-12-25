@@ -1,4 +1,4 @@
 <div>
    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=React%20Image 
- Upload&fontSize=90"  />
+ &fontSize=90"  />
 </div>
